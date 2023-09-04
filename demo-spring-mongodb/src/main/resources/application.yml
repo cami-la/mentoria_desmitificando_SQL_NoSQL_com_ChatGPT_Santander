@@ -1,0 +1,13 @@
+
+spring:
+#Configured Spring DevTools
+  devtools:
+    restart:
+      enabled: true
+    livereload:
+      enabled: true
+#Configured MongoDB
+  data:
+    mongodb:
+      uri: mongodb+srv://cami:5MZoIQUhjLYGeMni@demo-spring-mongodb.xyen1ts.mongodb.net/demo-spring-mongodb?retryWrites=true&w=majority
+      auto-index-creation: true

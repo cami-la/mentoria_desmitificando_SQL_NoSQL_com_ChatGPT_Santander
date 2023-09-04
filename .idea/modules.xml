@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-spring-data-jpa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-spring-data-jpa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-spring-mongodb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-spring-mongodb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desmestificando_SQL_e_NoSQL_com_ChatGPT.iml" filepath="$PROJECT_DIR$/desmestificando_SQL_e_NoSQL_com_ChatGPT.iml" />
+    </modules>
+  </component>
+</project>
