@@ -2,14 +2,17 @@
 
 Facilite a manipulação de bancos de dados SQL e NoSQL com a orientação do ChatGPT e outras IA. Aprenda de forma descomplicada a projetar, consultar e gerenciar esses sistemas fundamentais. Desmistifique os conceitos com exemplos práticos para impulsionar suas habilidades em aplicações do mundo real.
 
+<p align="center">
+<img src="https://arquivo.devmedia.com.br/REVISTAS/java/imagens/114/1/1.png"/><br>
+Timeline Banco de Dados
+</p>
+
 ## Banco de Dados Relacionais
 
 - Um banco de dados relacional é um tipo de banco de dados que armazena e fornece acesso a pontos de dados relacionados entre si. 
 - Bancos de dados relacionais são baseados no modelo relacional, uma maneira intuitiva e direta de representar dados em tabelas. 
 - Em um banco de dados relacional, cada linha na tabela é um registro com uma ID exclusiva chamada chave. 
 - As colunas da tabela contêm atributos dos dados e cada registro geralmente tem um valor para cada atributo, facilitando o estabelecimento das relações entre os pontos de dados.
-
-
 
 <p align="center">
 <img src="https://3025166959-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MgwMOcm4UygF4VcCNIq%2F-MkNMRUJGyALviexfQ6D%2F-MkNSZ1Dsh6CPtdRY6xQ%2FRDBMS.png?alt=media&token=701f83b1-60c4-497a-99d9-e5e40b35a947"/><br>
@@ -46,7 +49,7 @@ Exemplos de DBMS
 - Além disso, os bancos de dados NoSQL podem aproveitar ao máximo a nuvem para oferecer tempo de inatividade zero.
 
 <p align="center">
-<img src="https://1.bp.blogspot.com/-frx1igS60gw/XdsYwhHtiJI/AAAAAAAADUE/KUfpOY9k1oELCA1OqedOLel04kWI5DSxQCLcBGAsYHQ/s1600/Autoci%25C3%25AAncia%2B-%2BTipos%2Bde%2BBancos%2Bde%2BDados%2BNoSQL.png"/><br>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xZey02SHKs7lHc_vCBq9bg.jpeg"/><br>
 Exemplos de Banco de Dados NoSQL
 </p>
 
