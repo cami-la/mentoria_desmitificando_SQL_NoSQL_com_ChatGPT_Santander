@@ -1,4 +1,4 @@
-# Desmestificando Banco de Dados SQL e NoSQL com ChatGPT
+# Desmitificando Banco de Dados SQL e NoSQL com ChatGPT
 
 Facilite a manipulação de bancos de dados SQL e NoSQL com a orientação do ChatGPT e outras IA. Aprenda de forma descomplicada a projetar, consultar e gerenciar esses sistemas fundamentais. Desmistifique os conceitos com exemplos práticos para impulsionar suas habilidades em aplicações do mundo real.
 
